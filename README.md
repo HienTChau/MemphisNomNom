@@ -31,7 +31,7 @@ Here's a walkthrough of implemented required features: (if this does not show th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 
