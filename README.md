@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented required features: (if this does not show the video pls use this link: https://i.imgur.com/AhMh12h.gif)
 
 <img src='https://i.imgur.com/AhMh12h.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
